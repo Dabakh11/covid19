@@ -1,0 +1,6 @@
+>pip install Pandas : pour installer pandas(au niveau du terminal) 
+
+RECHERCHE A FAIRE: 05/042024
+mode, quartile, range, std, boxplot
+> python.exe -m pip install --upgrade pip: pour upgrad qd qlq choz ne veut pas s'installer
+> pip install seaborn
